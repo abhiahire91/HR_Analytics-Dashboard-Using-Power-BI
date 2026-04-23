@@ -27,8 +27,6 @@ Excel / CSV
 Higher attrition in low salary range
 Most churn in 26–35 age group
 Research & Lab roles show high attrition
-📸 Preview
-(Add dashboard image here)
 
 📬 Contact
 Abhishek Ahire
